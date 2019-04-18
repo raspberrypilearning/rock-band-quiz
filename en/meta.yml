@@ -1,0 +1,11 @@
+title: rock-band-quiz
+hero_image: images/banner.png
+description: rock-band-quiz description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2019-04-18"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
