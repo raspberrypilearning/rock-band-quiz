@@ -1,11 +1,11 @@
-# rock-band-quiz
+# rock-band
 
-![rock-band-quiz](banner.png)
+![rock-band](en/images/small_banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/rock-band-quiz](https://projects.raspberrypi.org/en/projects/rock-band-quiz)
+Find the project online at [projects.raspberrypi.org/en/projects/boat-race](https://projects.raspberrypi.org/en/projects/rock-band)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/rock-band-quiz/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/rock-band-quiz/tree/master/en/solutions).
+For resources and project materials, see [en/resources](https://github.com/raspberrypilearning/rock-band/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
